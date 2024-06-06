@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-from typing import List
 """
 returns a sum of list of float
 
 Args:
     input_list (List[float]): A list of float numbers.
 """
+
+from typing import List
 
 
 def sum_list(input_list: List[float]) -> float:
