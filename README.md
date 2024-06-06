@@ -1,0 +1,1 @@
+This is the __alx-backend-python__ repository, which includes all of the backend Python projects.
